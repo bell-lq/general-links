@@ -1,11 +1,29 @@
 {
-    "name": "General Links",
+    "name": "Gamdie",
     "downloads": [
         {
-            "title": "Goat Simulator Remastered",
+            "title": "Minecraft Legends (v1.17 + Multiplayer)",
             "uploadDate": "2024",
-            "fileSize": "12 GB",
-            "uris": ["https://1fichier.com/?856c0avvpc2hk4agaxxj"]
-        }
+            "fileSize": "10.4 GB",
+            "uris": ["https://gofile.io/d/CriZYK"]
+        },
+        {
+            "title": "People Playground (v1.27.5)",
+            "uploadDate": "2024",
+            "fileSize": " 194 MB",
+            "uris": ["magnet:?xt=urn:btih:XV2G6DZUVQ3CQDLHNLUDO4GXHFN3UYUT&dn=whatsinthebox.7z&xl=362008147"]
+        },
+        {
+            "title": "Mouthwashing (Build 15980018)",
+            "uploadDate": "2024",
+            "fileSize": "3.41 GB",
+            "uris": ["https://pixeldrain.com/u/mtn9Wcb3"]
+        },
+        {
+            "title": "ULTRAKILL (Build 14344626)",
+            "uploadDate": "2024",
+            "fileSize": "1.5 GB",
+            "uris": ["https://pixeldrain.com/u/uj5SqNcg"]
+        },
     ]
 }
